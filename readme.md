@@ -1,5 +1,4 @@
 #Boilerplate React App
-(with Foundation support)
 
 Includes:
 - express server (for both local testing and heroku builds)
